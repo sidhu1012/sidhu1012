@@ -6,7 +6,8 @@
 I am a Python Developer, and a Data Science ,Machine Learning and Artifical Intelligence Enthusiast from India. 🚀
 
 ### Technology and Tools ⚡
-![](https://img.shields.io/badge/<EDITOR>-<VSCODE>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<EDITOR>-<VSCODE>-informational?style=flat&&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<CODE>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<CODE>-<C++>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<CODE>-<C>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
