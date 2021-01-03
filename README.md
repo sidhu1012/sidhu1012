@@ -16,7 +16,6 @@
     </a> 
 
 
-
 ### 📌  Languages and Tools: <p align="center">
 
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/python.png"/>
